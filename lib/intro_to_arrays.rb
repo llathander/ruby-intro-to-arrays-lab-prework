@@ -27,3 +27,8 @@ def last_element(array)
   array = ["Welcome to New York", "taylor swift", 1, "Style", "Out of The Woods"]
   return array[-1]
 end
+
+def first_country(array)
+  array = ["Welcome to New York", "taylor swift", 1, "Style", "Out of The Woods"]
+  return array.first
+end
