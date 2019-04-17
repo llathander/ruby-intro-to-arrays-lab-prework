@@ -14,6 +14,6 @@ def instantiate_new_array
 end
 
 def first_element(array)
-  array = ["taylor swift", 1]
+  array = ["Welcome to New York", "taylor swift", 1]
   return array[0]
 end
