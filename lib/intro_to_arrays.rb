@@ -23,7 +23,7 @@ def third_element(array)
   return array[3]
 end
 
-def my_first_element(array)
+def my_last_element(array)
   array = ["Welcome to New York", "taylor swift", 1, "Style"]
   return array[-1]
 end
