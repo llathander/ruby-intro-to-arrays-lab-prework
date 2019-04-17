@@ -20,5 +20,5 @@ end
 
 def third_element(array)
   array = ["Welcome to New York", "taylor swift", 1, "Style"]
-  return array[2]
+  return array[3]
 end
