@@ -19,6 +19,6 @@ def first_element(array)
 end
 
 def third_element(array)
-  array = ["Welcome to New York", "taylor swift", 1]
-  return array[0]
+  array = ["Welcome to New York", "taylor swift", 1, "Style"]
+  return array[2]
 end
