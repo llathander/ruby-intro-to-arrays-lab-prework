@@ -17,3 +17,8 @@ def first_element(array)
   array = ["Welcome to New York", "taylor swift", 1]
   return array[0]
 end
+
+def third_element(array)
+  array = ["Welcome to New York", "taylor swift", 1]
+  return array[0]
+end
